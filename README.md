@@ -1,15 +1,15 @@
-Welcome to My Project!
-Welcome to my project repository! Here you'll find [describe briefly what your project does or its purpose].
+## Welcome to My Project!
+Welcome to my project repository! Here you'll find a project about a web pastry shop.
 
 Feel free to use this project as you see fit. I hope it proves useful to you!
 
-Usage
-[Describe how to use or integrate your project, if applicable.]
+## Usage
+The tools that were applied with CSS, HTML, JS and Php. Still a prototype.
 
-Contributions
+## Contributions
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-About Me
+## About Me
 You can find more of my projects on GitHub.
 
 Thank you for checking out my project!
