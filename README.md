@@ -1,4 +1,4 @@
-## Welcome to My Project!
+## Crumble
 Welcome to my project is in process to begin! Here you'll find a project about a web pastry shop.
 
 Feel free to use this project as you see fit. I hope it proves useful to you!
